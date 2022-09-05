@@ -40,7 +40,3 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Beauty_v1_00.t
 ## Summary:
 35.4% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is 58%. This describes a negative bias for reviews in the Vine program when reviewing beauty products.
 Further statistical analysis (mean, median and mode) of the star rating for the Vine and non-Vine reviews will help us form better perspective.
-
-
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
